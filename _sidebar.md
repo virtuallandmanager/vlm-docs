@@ -5,3 +5,4 @@
 
 - Installation and Development
   - [Decentraland SDK 6](/decentraland/sdk6.md)
+  - [Decentraland SDK 7](/decentraland/sdk7.md)

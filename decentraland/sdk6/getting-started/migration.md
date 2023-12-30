@@ -14,6 +14,8 @@ npm uninstall dcl-vlm
 1. In the Dependencies panel, select `dcl-vlm`\*
 2. Hit the **\-** button in top right of the Dependencies panel.\*
 3. When asked, *"Is this a Decentraland library?"* choose **Yes**.
+4. Type `vlm-dcl@sdk6` for SDK6, or `vlm-dcl@sdk7` for SDK7, then hit **Enter** or **Return**
+
 
 > The **Dependencies Panel** is found by selecting the SDK extension logo. It is underneath the panel that has the **Run Scene** and **Publish Scene** buttons.
 
@@ -25,10 +27,10 @@ npm uninstall dcl-vlm
 
 ### 3. Follow instructions for installing the new vlm-dcl package
 
->[Install VLM with Basic Features](getting-started/basic-install.md.md)
+>[Install VLM with Basic Features](getting-started/basic-install.md)
 -
 For users who don't need to control anything via code.
 
->[Install VLM with Advanced User Features](getting-started/advanced-install.md.md)
+>[Install VLM with Advanced User Features](getting-started/advanced-install.md)
 -
 For those who want to utilize the advanced user features, allowing complex scenes and implementation of custom controls. (Must enable Advanced User role on your VLM account.)
