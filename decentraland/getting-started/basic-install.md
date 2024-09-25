@@ -28,7 +28,7 @@ npm install vlm-dcl@sdk7
 
 1. Copy your **Scene ID** from your scene's **Settings** tab.
 2. Replace the zeros copied from above with your Scene ID.
-3. Paste this line above `"main"`, which is usually on line 13.
+3. ⚠️ Paste this line above `"main"`, which is usually on line 15.
 
 ### **3. Add these lines to your `tsconfig.json` file, within `compilerOptions`:**
 ```json
